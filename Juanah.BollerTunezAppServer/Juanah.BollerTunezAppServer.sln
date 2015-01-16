@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BollerTunezAppServer", "BollerTunezAppServer\BollerTunezAppServer.csproj", "{555A34B7-09F9-471A-B254-6FF656B95B1F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BollerTunez.Common", "BollerTunez.Common\BollerTunez.Common.csproj", "{30EA9680-3A29-499A-946C-FC20423484FC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{30EA9680-3A29-499A-946C-FC20423484FC}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{30EA9680-3A29-499A-946C-FC20423484FC}.Debug|x86.Build.0 = Debug|Any CPU
+		{30EA9680-3A29-499A-946C-FC20423484FC}.Release|x86.ActiveCfg = Release|Any CPU
+		{30EA9680-3A29-499A-946C-FC20423484FC}.Release|x86.Build.0 = Release|Any CPU
+		{555A34B7-09F9-471A-B254-6FF656B95B1F}.Debug|x86.ActiveCfg = Debug|x86
+		{555A34B7-09F9-471A-B254-6FF656B95B1F}.Debug|x86.Build.0 = Debug|x86
+		{555A34B7-09F9-471A-B254-6FF656B95B1F}.Release|x86.ActiveCfg = Release|x86
+		{555A34B7-09F9-471A-B254-6FF656B95B1F}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = BollerTunezAppServer\BollerTunezAppServer.csproj
+	EndGlobalSection
+EndGlobal
